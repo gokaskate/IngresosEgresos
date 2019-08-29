@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.ingreso {
+     color: green;
+     font-weight: bold;
+}
+.egreso {
+    
+    color: red;
+    font-weight: bold;
+}
